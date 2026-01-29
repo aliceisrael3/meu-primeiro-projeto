@@ -1,0 +1,56 @@
+body {
+  background-color: plum;
+
+  margin: 0;
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.eu {
+  align-self: flex-start;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.inicio {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+button:hover {
+  border-bottom: 2px solid black;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: plum;
+  color: white;
+}
+
+.sobre {
+  margin-left: 51px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+
+.projetos {
+  width: 100%;
+  text-align: center;
+}
+.galeria {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.galeria img {
+  width: 200px;
+  border-radius: 8px;
+}
+
