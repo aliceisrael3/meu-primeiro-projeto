@@ -16,7 +16,7 @@ body {
   margin-left: 40px;
 }
 .inicio {
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   margin-bottom: 50px;
   padding: 20px;
@@ -36,6 +36,7 @@ button:hover {
   margin-left: 51px;
   margin-bottom: 50px;
   padding: 20px;
+  
 }
 
 .projetos {
